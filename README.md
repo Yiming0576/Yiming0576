@@ -38,14 +38,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Yiming">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Yiming&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Yiming0576/Yiming0576/output/snake.svg" alt="Snake animation" />
 
 ###
