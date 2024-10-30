@@ -58,14 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yiming0576.Yiming0576&"  />
-</div>
-
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
