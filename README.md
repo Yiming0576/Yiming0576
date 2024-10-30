@@ -54,14 +54,15 @@
 
 
 
-### ✍️ Random Dev Quote
+<h2 align="center">Random Dev Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<h2 align="center">😂Random Dev Meme</h2>
+<div align="center">
+  <img src="https://random-memer.herokuapp.com/" width="512px"/>  
+</div>
 
 
