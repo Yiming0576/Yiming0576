@@ -60,9 +60,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<h2 align="center">😂Random Dev Meme</h2>
-<div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>  
-</div>
 
 
