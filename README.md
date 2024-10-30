@@ -54,11 +54,3 @@
 
 
 
-<h2 align="center">Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-
-
